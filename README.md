@@ -6,7 +6,7 @@
 
 # 📊 Repository visitors:
 ---
-[![](https://moe-counter.glitch.me/get/@:Miko7799/NGL-spam?theme=aso)](https://visitcount.itsvg.in)
+[![](https://moe-counter.glitch.me/get/@:NGL-spam?theme=rule34)](https://visitcount.itsvg.in)
 
 Ini adalah sebuah skrip sederhana untuk melakukan spam pada NGL milik siapa pun, dengan jeda 2 detik antara setiap permintaan, menggunakan modul Axios di Node.js.
 
